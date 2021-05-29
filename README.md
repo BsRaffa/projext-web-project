@@ -34,3 +34,4 @@ Para projetos python o recomendável é utilizar uma venv para organizar as depe
 ```bash
 python -m venv env
 ```
+
