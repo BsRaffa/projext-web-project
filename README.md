@@ -28,3 +28,9 @@ Uma aplicação bastante simples permite o usuário gerenciar cartas de duelo, s
         <img src='https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge' />
     </a>
 </p>
+
+## Preparando o ambiente
+Para projetos python o recomendável é utilizar uma venv para organizar as dependências do projeto. Para criar um ambiente virtual python:
+```bash
+python -m venv env
+```
